@@ -4,7 +4,7 @@
 
  Há muito tempo vendo sendo desafiado a escrever, mas somente agora decidi sair da minha zona de conforto e dar esse passo. Recentemente descobri que a escrita é a melhor forma de se organizar seus pensamentos, além de contribuir para o desenvolvimento da oratória e como estou de cabeça em um curso de tecnologia, nada melhor do que um diário pessoal sobre 
 minha vida como Desenvolvedor.  <br>
-Bom, antes de começarmos é interessante me apresentar para vocês. Meu nome é Gerson Henrique, mas todo mundo me chama de Gero! Estudei Psicologia na FAMA e Cincia da computação na UFG, digo estudei por que não terminei nenhum desses cursos (é a vida), mas hoje sinto que estou no caminho certo cursando Tecnologia em Design Gráfico e vivendo desenvolvimento web na Trybe.<br>
+Bom, antes de começarmos é interessante me apresentar para vocês. Meu nome é Gerson Henrique, mas todo mundo me chama de Gero! Estudei Psicologia na FAMA e Ciência da computação na UFG, digo estudei por que não terminei nenhum desses cursos (é a vida), mas hoje sinto que estou no caminho certo cursando Tecnologia em Design Gráfico e vivendo desenvolvimento web na Trybe.<br>
 Acredito que se você está lendo isso, está muito mais interessado em saber sobre meus pensamentos do que da minha história por si só. Então sem enrolação, gostaria de passar-vos o meu método de estudo (que tem se comprovado extremamente funcional).<br>
 </div>
 
